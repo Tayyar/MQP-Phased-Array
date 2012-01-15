@@ -1,0 +1,28 @@
+Release 13.2 Xflow O.61xd (lin)
+Copyright (c) 1995-2011 Xilinx, Inc.  All rights reserved.
+xflow -wd implementation -p xc5vlx50tff1136-1 -implement xflow.opt system.ngc  
+
+Using Flow File: /home/bashton/tmp/implementation/fpga.flw 
+Using Option File(s): 
+ /home/bashton/tmp/implementation/xflow.opt 
+
+Creating Script File ... 
+
+#----------------------------------------------#
+# Starting program ngdbuild
+# ngdbuild -p xc5vlx50tff1136-1 -nt timestamp -bm system.bmm
+"/home/bashton/tmp/implementation/system.ngc" -uc system.ucf system.ngd 
+#----------------------------------------------#
+Release 13.2 - ngdbuild O.61xd (lin)
+Copyright (c) 1995-2011 Xilinx, Inc.  All rights reserved.
+
+Command Line: /home/bashton/Xilinx/13.2/ISE_DS/ISE/bin/lin/unwrapped/ngdbuild -p
+xc5vlx50tff1136-1 -nt timestamp -bm system.bmm
+/home/bashton/tmp/implementation/system.ngc -uc system.ucf system.ngd
+
+Reading NGO file "/home/bashton/tmp/implementation/system.ngc" ...
+Loading design module
+"/home/bashton/tmp/implementation/microblaze_0_wrapper.ngc"...
+
+ERROR:Xflow:225 - ngdbuild: application received signal 2.
+ERROR:Xflow:226 - Aborting flow execution...

@@ -1,0 +1,13 @@
+run
+-opt_mode speed
+-netlist_hierarchy as_optimized
+-opt_level 1
+-p xc5vlx50tff1136-1
+-top dip_switches_8bit_wrapper
+-ifmt MIXED
+-ifn dip_switches_8bit_wrapper_xst.prj
+-ofn ../implementation/dip_switches_8bit_wrapper.ngc
+-hierarchy_separator /
+-iobuf NO
+-sd {../implementation}
+-vlgincdir {"/home/bashton/tmp/pcores/" "/home/bashton/Digilent_Genesys_BSB_Support/lib/Digilent/pcores/" "/home/bashton/Xilinx/13.2/ISE_DS/EDK/hw/XilinxBFMinterface/pcores/" "/home/bashton/Xilinx/13.2/ISE_DS/EDK/hw/XilinxProcessorIPLib/pcores/" }

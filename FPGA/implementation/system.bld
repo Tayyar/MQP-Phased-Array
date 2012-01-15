@@ -1,0 +1,10 @@
+Release 13.2 ngdbuild O.61xd (lin)
+Copyright (c) 1995-2011 Xilinx, Inc.  All rights reserved.
+
+Command Line: /home/bashton/Xilinx/13.2/ISE_DS/ISE/bin/lin/unwrapped/ngdbuild -p
+xc5vlx50tff1136-1 -nt timestamp -bm system.bmm
+/home/bashton/tmp/implementation/system.ngc -uc system.ucf system.ngd
+
+Reading NGO file "/home/bashton/tmp/implementation/system.ngc" ...
+Loading design module
+"/home/bashton/tmp/implementation/microblaze_0_wrapper.ngc"...

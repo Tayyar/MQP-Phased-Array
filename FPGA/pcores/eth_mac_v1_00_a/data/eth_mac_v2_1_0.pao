@@ -1,0 +1,22 @@
+##############################################################################
+## Filename:          /home/bashton/tmp/pcores/eth_mac_v1_00_a/data/eth_mac_v2_1_0.pao
+## Description:       Peripheral Analysis Order
+## Date:              Sat Oct  8 12:47:46 2011 (by Create and Import Peripheral Wizard)
+##############################################################################
+
+lib proc_common_v3_00_a  all 
+lib plbv46_slave_single_v1_01_a  all 
+
+
+lib eth_mac_v1_00_a coregen_design/v5_emac_v1_8.vhd  
+lib eth_mac_v1_00_a coregen_design/physical/emac0_fcs_blk_mii.vhd  
+lib eth_mac_v1_00_a coregen_design/physical/gmii_if.vhd   
+lib eth_mac_v1_00_a coregen_design/v5_emac_v1_8_block.vhd  
+lib eth_mac_v1_00_a coregen_design/client/fifo/tx_client_fifo_8.vhd  
+lib eth_mac_v1_00_a coregen_design/client/fifo/rx_client_fifo_8.vhd  
+lib eth_mac_v1_00_a coregen_design/client/fifo/eth_fifo_8.vhd  
+lib eth_mac_v1_00_a coregen_design/v5_emac_v1_8_locallink.vhd  
+lib eth_mac_v1_00_a coregen_design/client/address_swap_module_8.vhd 
+
+lib eth_mac_v1_00_a user_logic vhdl
+lib eth_mac_v1_00_a eth_mac vhdl

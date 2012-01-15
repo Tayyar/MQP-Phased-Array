@@ -1,0 +1,10 @@
+#!/bin/csh -f
+###########################################
+# Script file to run the flow 
+# 
+###########################################
+#
+# Command line for ngdbuild
+#
+ngdbuild -p xc5vlx50tff1136-1 -nt timestamp -bm system.bmm "/home/bashton/tmp/implementation/system.ngc" -uc system.ucf system.ngd 
+
