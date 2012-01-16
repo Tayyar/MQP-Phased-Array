@@ -1,0 +1,413 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Tayyar\Desktop\school\MQP\PCB\FPGA_interface_layout\FPGA_interface\FPGA_interface_ver2.PcbDoc
+Date     : 1/5/2012
+Time     : 10:09:50 AM
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
+   Violation between Text "15" (2587mil,775mil)  Top Overlay and 
+                     Track (2677mil,645mil)(2677mil,845mil)  Top Overlay
+   Violation between Text "28" (2135mil,9117mil)  Top Overlay and 
+                     Track (2123mil,9003mil)(2123mil,9203mil)  Top Overlay
+   Violation between Text "14" (2140mil,9026mil)  Top Overlay and 
+                     Track (2123mil,9003mil)(2123mil,9203mil)  Top Overlay
+Rule Violations :3
+
+Processing Rule : Silkscreen Over Component Pads (Clearance=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
+   Violation between Pad VHDC1-A2(4200mil,6700.504mil)  Top Layer and 
+                     Pad VHDC1-A1(4200mil,6732mil)  Top Layer
+   Violation between Via (3981mil,6710mil) Top Layer to Bottom Layer and 
+                     Pad VHDC1-A1(4200mil,6732mil)  Top Layer
+   Violation between Pad VHDC1-A3(4200mil,6669.008mil)  Top Layer and 
+                     Pad VHDC1-A2(4200mil,6700.504mil)  Top Layer
+   Violation between Via (3981mil,6710mil) Top Layer to Bottom Layer and 
+                     Pad VHDC1-A2(4200mil,6700.504mil)  Top Layer
+   Violation between Pad VHDC1-A4(4200mil,6637.512mil)  Top Layer and 
+                     Pad VHDC1-A3(4200mil,6669.008mil)  Top Layer
+   Violation between Pad VHDC1-A5(4200mil,6606.016mil)  Top Layer and 
+                     Pad VHDC1-A4(4200mil,6637.512mil)  Top Layer
+   Violation between Pad VHDC1-A6(4200mil,6574.52mil)  Top Layer and 
+                     Pad VHDC1-A5(4200mil,6606.016mil)  Top Layer
+   Violation between Via (3981mil,6614mil) Top Layer to Bottom Layer and 
+                     Pad VHDC1-A5(4200mil,6606.016mil)  Top Layer
+   Violation between Pad VHDC1-A7(4200mil,6543.024mil)  Top Layer and 
+                     Pad VHDC1-A6(4200mil,6574.52mil)  Top Layer
+   Violation between Pad VHDC1-A8(4200mil,6511.528mil)  Top Layer and 
+                     Pad VHDC1-A7(4200mil,6543.024mil)  Top Layer
+   Violation between Pad VHDC1-A9(4200mil,6480.032mil)  Top Layer and 
+                     Pad VHDC1-A8(4200mil,6511.528mil)  Top Layer
+   Violation between Pad VHDC1-A10(4200mil,6448.536mil)  Top Layer and 
+                     Pad VHDC1-A9(4200mil,6480.032mil)  Top Layer
+   Violation between Pad VHDC1-A11(4200mil,6417.04mil)  Top Layer and 
+                     Pad VHDC1-A10(4200mil,6448.536mil)  Top Layer
+   Violation between Pad VHDC1-A12(4200mil,6385.542mil)  Top Layer and 
+                     Pad VHDC1-A11(4200mil,6417.04mil)  Top Layer
+   Violation between Via (3979mil,6425mil) Top Layer to Bottom Layer and 
+                     Pad VHDC1-A11(4200mil,6417.04mil)  Top Layer
+   Violation between Pad VHDC1-A13(4200mil,6354.046mil)  Top Layer and 
+                     Pad VHDC1-A12(4200mil,6385.542mil)  Top Layer
+   Violation between Pad VHDC1-A14(4200mil,6322.55mil)  Top Layer and 
+                     Pad VHDC1-A13(4200mil,6354.046mil)  Top Layer
+   Violation between Pad VHDC1-A15(4200mil,6291.054mil)  Top Layer and 
+                     Pad VHDC1-A14(4200mil,6322.55mil)  Top Layer
+   Violation between Pad VHDC1-A16(4200mil,6259.558mil)  Top Layer and 
+                     Pad VHDC1-A15(4200mil,6291.054mil)  Top Layer
+   Violation between Pad VHDC1-A17(4200mil,6228.062mil)  Top Layer and 
+                     Pad VHDC1-A16(4200mil,6259.558mil)  Top Layer
+   Violation between Pad VHDC1-A18(4200mil,6196.566mil)  Top Layer and 
+                     Pad VHDC1-A17(4200mil,6228.062mil)  Top Layer
+   Violation between Pad VHDC1-A19(4200mil,6165.07mil)  Top Layer and 
+                     Pad VHDC1-A18(4200mil,6196.566mil)  Top Layer
+   Violation between Pad VHDC1-A20(4200mil,6133.574mil)  Top Layer and 
+                     Pad VHDC1-A19(4200mil,6165.07mil)  Top Layer
+   Violation between Pad VHDC1-A21(4200mil,6102.078mil)  Top Layer and 
+                     Pad VHDC1-A20(4200mil,6133.574mil)  Top Layer
+   Violation between Pad VHDC1-A22(4200mil,6070.582mil)  Top Layer and 
+                     Pad VHDC1-A21(4200mil,6102.078mil)  Top Layer
+   Violation between Pad VHDC1-A23(4200mil,6039.086mil)  Top Layer and 
+                     Pad VHDC1-A22(4200mil,6070.582mil)  Top Layer
+   Violation between Pad VHDC1-A24(4200mil,6007.59mil)  Top Layer and 
+                     Pad VHDC1-A23(4200mil,6039.086mil)  Top Layer
+   Violation between Pad VHDC1-A25(4200mil,5976.094mil)  Top Layer and 
+                     Pad VHDC1-A24(4200mil,6007.59mil)  Top Layer
+   Violation between Pad VHDC1-A26(4200mil,5944.598mil)  Top Layer and 
+                     Pad VHDC1-A25(4200mil,5976.094mil)  Top Layer
+   Violation between Pad VHDC1-A27(4200mil,5913.102mil)  Top Layer and 
+                     Pad VHDC1-A26(4200mil,5944.598mil)  Top Layer
+   Violation between Pad VHDC1-A28(4200mil,5881.606mil)  Top Layer and 
+                     Pad VHDC1-A27(4200mil,5913.102mil)  Top Layer
+   Violation between Pad VHDC1-A29(4200mil,5850.11mil)  Top Layer and 
+                     Pad VHDC1-A28(4200mil,5881.606mil)  Top Layer
+   Violation between Pad VHDC1-A30(4200mil,5818.614mil)  Top Layer and 
+                     Pad VHDC1-A29(4200mil,5850.11mil)  Top Layer
+   Violation between Pad VHDC1-A31(4200mil,5787.118mil)  Top Layer and 
+                     Pad VHDC1-A30(4200mil,5818.614mil)  Top Layer
+   Violation between Pad VHDC1-A32(4200mil,5755.62mil)  Top Layer and 
+                     Pad VHDC1-A31(4200mil,5787.118mil)  Top Layer
+   Violation between Pad VHDC1-A33(4200mil,5724.124mil)  Top Layer and 
+                     Pad VHDC1-A32(4200mil,5755.62mil)  Top Layer
+   Violation between Pad VHDC1-A34(4200mil,5692.628mil)  Top Layer and 
+                     Pad VHDC1-A33(4200mil,5724.124mil)  Top Layer
+   Violation between Pad VHDC2-A33(4200mil,3341.124mil)  Top Layer and 
+                     Pad VHDC2-A34(4200mil,3309.628mil)  Top Layer
+   Violation between Pad VHDC2-A32(4200mil,3372.62mil)  Top Layer and 
+                     Pad VHDC2-A33(4200mil,3341.124mil)  Top Layer
+   Violation between Via (3980mil,3350mil) Top Layer to Bottom Layer and 
+                     Pad VHDC2-A33(4200mil,3341.124mil)  Top Layer
+   Violation between Pad VHDC2-A31(4200mil,3404.116mil)  Top Layer and 
+                     Pad VHDC2-A32(4200mil,3372.62mil)  Top Layer
+   Violation between Pad VHDC2-A30(4200mil,3435.614mil)  Top Layer and 
+                     Pad VHDC2-A31(4200mil,3404.116mil)  Top Layer
+   Violation between Pad VHDC2-A29(4200mil,3467.11mil)  Top Layer and 
+                     Pad VHDC2-A30(4200mil,3435.614mil)  Top Layer
+   Violation between Via (3980mil,3444mil) Top Layer to Bottom Layer and 
+                     Pad VHDC2-A30(4200mil,3435.614mil)  Top Layer
+   Violation between Pad VHDC2-A28(4200mil,3498.606mil)  Top Layer and 
+                     Pad VHDC2-A29(4200mil,3467.11mil)  Top Layer
+   Violation between Pad VHDC2-A27(4200mil,3530.102mil)  Top Layer and 
+                     Pad VHDC2-A28(4200mil,3498.606mil)  Top Layer
+   Violation between Pad VHDC2-A26(4200mil,3561.598mil)  Top Layer and 
+                     Pad VHDC2-A27(4200mil,3530.102mil)  Top Layer
+   Violation between Via (3980mil,3538mil) Top Layer to Bottom Layer and 
+                     Pad VHDC2-A27(4200mil,3530.102mil)  Top Layer
+   Violation between Pad VHDC2-A25(4200mil,3593.094mil)  Top Layer and 
+                     Pad VHDC2-A26(4200mil,3561.598mil)  Top Layer
+   Violation between Pad VHDC2-A24(4200mil,3624.59mil)  Top Layer and 
+                     Pad VHDC2-A25(4200mil,3593.094mil)  Top Layer
+   Violation between Pad VHDC2-A23(4200mil,3656.086mil)  Top Layer and 
+                     Pad VHDC2-A24(4200mil,3624.59mil)  Top Layer
+   Violation between Via (3980mil,3633mil) Top Layer to Bottom Layer and 
+                     Pad VHDC2-A24(4200mil,3624.59mil)  Top Layer
+   Violation between Pad VHDC2-A22(4200mil,3687.582mil)  Top Layer and 
+                     Pad VHDC2-A23(4200mil,3656.086mil)  Top Layer
+   Violation between Pad VHDC2-A21(4200mil,3719.078mil)  Top Layer and 
+                     Pad VHDC2-A22(4200mil,3687.582mil)  Top Layer
+   Violation between Pad VHDC2-A20(4200mil,3750.574mil)  Top Layer and 
+                     Pad VHDC2-A21(4200mil,3719.078mil)  Top Layer
+   Violation between Via (3980mil,3726mil) Top Layer to Bottom Layer and 
+                     Pad VHDC2-A21(4200mil,3719.078mil)  Top Layer
+   Violation between Pad VHDC2-A19(4200mil,3782.07mil)  Top Layer and 
+                     Pad VHDC2-A20(4200mil,3750.574mil)  Top Layer
+   Violation between Pad VHDC2-A18(4200mil,3813.566mil)  Top Layer and 
+                     Pad VHDC2-A19(4200mil,3782.07mil)  Top Layer
+   Violation between Pad VHDC2-A17(4200mil,3845.062mil)  Top Layer and 
+                     Pad VHDC2-A18(4200mil,3813.566mil)  Top Layer
+   Violation between Pad VHDC2-A16(4200mil,3876.558mil)  Top Layer and 
+                     Pad VHDC2-A17(4200mil,3845.062mil)  Top Layer
+   Violation between Pad VHDC2-A15(4200mil,3908.054mil)  Top Layer and 
+                     Pad VHDC2-A16(4200mil,3876.558mil)  Top Layer
+   Violation between Pad VHDC2-A14(4200mil,3939.55mil)  Top Layer and 
+                     Pad VHDC2-A15(4200mil,3908.054mil)  Top Layer
+   Violation between Pad VHDC2-A13(4200mil,3971.046mil)  Top Layer and 
+                     Pad VHDC2-A14(4200mil,3939.55mil)  Top Layer
+   Violation between Via (3980mil,3948mil) Top Layer to Bottom Layer and 
+                     Pad VHDC2-A14(4200mil,3939.55mil)  Top Layer
+   Violation between Pad VHDC2-A12(4200mil,4002.542mil)  Top Layer and 
+                     Pad VHDC2-A13(4200mil,3971.046mil)  Top Layer
+   Violation between Pad VHDC2-A11(4200mil,4034.038mil)  Top Layer and 
+                     Pad VHDC2-A12(4200mil,4002.542mil)  Top Layer
+   Violation between Pad VHDC2-A10(4200mil,4065.536mil)  Top Layer and 
+                     Pad VHDC2-A11(4200mil,4034.038mil)  Top Layer
+   Violation between Via (3980mil,4042mil) Top Layer to Bottom Layer and 
+                     Pad VHDC2-A11(4200mil,4034.038mil)  Top Layer
+   Violation between Pad VHDC2-A9(4200mil,4097.032mil)  Top Layer and 
+                     Pad VHDC2-A10(4200mil,4065.536mil)  Top Layer
+   Violation between Pad VHDC2-A8(4200mil,4128.528mil)  Top Layer and 
+                     Pad VHDC2-A9(4200mil,4097.032mil)  Top Layer
+   Violation between Pad VHDC2-A7(4200mil,4160.024mil)  Top Layer and 
+                     Pad VHDC2-A8(4200mil,4128.528mil)  Top Layer
+   Violation between Via (3980mil,4136mil) Top Layer to Bottom Layer and 
+                     Pad VHDC2-A8(4200mil,4128.528mil)  Top Layer
+   Violation between Pad VHDC2-A6(4200mil,4191.52mil)  Top Layer and 
+                     Pad VHDC2-A7(4200mil,4160.024mil)  Top Layer
+   Violation between Pad VHDC2-A5(4200mil,4223.016mil)  Top Layer and 
+                     Pad VHDC2-A6(4200mil,4191.52mil)  Top Layer
+   Violation between Pad VHDC2-A4(4200mil,4254.512mil)  Top Layer and 
+                     Pad VHDC2-A5(4200mil,4223.016mil)  Top Layer
+   Violation between Via (3980mil,4231mil) Top Layer to Bottom Layer and 
+                     Pad VHDC2-A5(4200mil,4223.016mil)  Top Layer
+   Violation between Pad VHDC2-A3(4200mil,4286.008mil)  Top Layer and 
+                     Pad VHDC2-A4(4200mil,4254.512mil)  Top Layer
+   Violation between Pad VHDC2-A2(4200mil,4317.504mil)  Top Layer and 
+                     Pad VHDC2-A3(4200mil,4286.008mil)  Top Layer
+   Violation between Pad VHDC2-A1(4200mil,4349mil)  Top Layer and 
+                     Pad VHDC2-A2(4200mil,4317.504mil)  Top Layer
+   Violation between Via (3980mil,4325mil) Top Layer to Bottom Layer and 
+                     Pad VHDC2-A2(4200mil,4317.504mil)  Top Layer
+   Violation between Pad VHDC1-B2(4200mil,6716.252mil)  Bottom Layer and 
+                     Pad VHDC1-B1(4200mil,6747.748mil)  Bottom Layer
+   Violation between Pad VHDC1-B3(4200mil,6684.756mil)  Bottom Layer and 
+                     Pad VHDC1-B2(4200mil,6716.252mil)  Bottom Layer
+   Violation between Via (3981mil,6710mil) Top Layer to Bottom Layer and 
+                     Pad VHDC1-B2(4200mil,6716.252mil)  Bottom Layer
+   Violation between Pad VHDC1-B4(4200mil,6653.26mil)  Bottom Layer and 
+                     Pad VHDC1-B3(4200mil,6684.756mil)  Bottom Layer
+   Violation between Pad VHDC1-B5(4200mil,6621.764mil)  Bottom Layer and 
+                     Pad VHDC1-B4(4200mil,6653.26mil)  Bottom Layer
+   Violation between Pad VHDC1-B6(4200mil,6590.268mil)  Bottom Layer and 
+                     Pad VHDC1-B5(4200mil,6621.764mil)  Bottom Layer
+   Violation between Via (3981mil,6614mil) Top Layer to Bottom Layer and 
+                     Pad VHDC1-B5(4200mil,6621.764mil)  Bottom Layer
+   Violation between Pad VHDC1-B7(4200mil,6558.772mil)  Bottom Layer and 
+                     Pad VHDC1-B6(4200mil,6590.268mil)  Bottom Layer
+   Violation between Pad VHDC1-B8(4200mil,6527.276mil)  Bottom Layer and 
+                     Pad VHDC1-B7(4200mil,6558.772mil)  Bottom Layer
+   Violation between Pad VHDC1-B9(4200mil,6495.78mil)  Bottom Layer and 
+                     Pad VHDC1-B8(4200mil,6527.276mil)  Bottom Layer
+   Violation between Pad VHDC1-B10(4200mil,6464.284mil)  Bottom Layer and 
+                     Pad VHDC1-B9(4200mil,6495.78mil)  Bottom Layer
+   Violation between Pad VHDC1-B11(4200mil,6432.788mil)  Bottom Layer and 
+                     Pad VHDC1-B10(4200mil,6464.284mil)  Bottom Layer
+   Violation between Pad VHDC1-B12(4200mil,6401.29mil)  Bottom Layer and 
+                     Pad VHDC1-B11(4200mil,6432.788mil)  Bottom Layer
+   Violation between Via (3979mil,6425mil) Top Layer to Bottom Layer and 
+                     Pad VHDC1-B11(4200mil,6432.788mil)  Bottom Layer
+   Violation between Pad VHDC1-B13(4200mil,6369.794mil)  Bottom Layer and 
+                     Pad VHDC1-B12(4200mil,6401.29mil)  Bottom Layer
+   Violation between Pad VHDC1-B14(4200mil,6338.298mil)  Bottom Layer and 
+                     Pad VHDC1-B13(4200mil,6369.794mil)  Bottom Layer
+   Violation between Pad VHDC1-B15(4200mil,6306.802mil)  Bottom Layer and 
+                     Pad VHDC1-B14(4200mil,6338.298mil)  Bottom Layer
+   Violation between Pad VHDC1-B16(4200mil,6275.306mil)  Bottom Layer and 
+                     Pad VHDC1-B15(4200mil,6306.802mil)  Bottom Layer
+   Violation between Pad VHDC1-B17(4200mil,6243.81mil)  Bottom Layer and 
+                     Pad VHDC1-B16(4200mil,6275.306mil)  Bottom Layer
+   Violation between Pad VHDC1-B18(4200mil,6212.314mil)  Bottom Layer and 
+                     Pad VHDC1-B17(4200mil,6243.81mil)  Bottom Layer
+   Violation between Pad VHDC1-B19(4200mil,6180.818mil)  Bottom Layer and 
+                     Pad VHDC1-B18(4200mil,6212.314mil)  Bottom Layer
+   Violation between Pad VHDC1-B20(4200mil,6149.322mil)  Bottom Layer and 
+                     Pad VHDC1-B19(4200mil,6180.818mil)  Bottom Layer
+   Violation between Pad VHDC1-B21(4200mil,6117.826mil)  Bottom Layer and 
+                     Pad VHDC1-B20(4200mil,6149.322mil)  Bottom Layer
+   Violation between Pad VHDC1-B22(4200mil,6086.33mil)  Bottom Layer and 
+                     Pad VHDC1-B21(4200mil,6117.826mil)  Bottom Layer
+   Violation between Pad VHDC1-B23(4200mil,6054.834mil)  Bottom Layer and 
+                     Pad VHDC1-B22(4200mil,6086.33mil)  Bottom Layer
+   Violation between Pad VHDC1-B24(4200mil,6023.338mil)  Bottom Layer and 
+                     Pad VHDC1-B23(4200mil,6054.834mil)  Bottom Layer
+   Violation between Pad VHDC1-B25(4200mil,5991.842mil)  Bottom Layer and 
+                     Pad VHDC1-B24(4200mil,6023.338mil)  Bottom Layer
+   Violation between Pad VHDC1-B26(4200mil,5960.346mil)  Bottom Layer and 
+                     Pad VHDC1-B25(4200mil,5991.842mil)  Bottom Layer
+   Violation between Pad VHDC1-B27(4200mil,5928.85mil)  Bottom Layer and 
+                     Pad VHDC1-B26(4200mil,5960.346mil)  Bottom Layer
+   Violation between Pad VHDC1-B28(4200mil,5897.354mil)  Bottom Layer and 
+                     Pad VHDC1-B27(4200mil,5928.85mil)  Bottom Layer
+   Violation between Pad VHDC1-B29(4200mil,5865.858mil)  Bottom Layer and 
+                     Pad VHDC1-B28(4200mil,5897.354mil)  Bottom Layer
+   Violation between Pad VHDC1-B30(4200mil,5834.362mil)  Bottom Layer and 
+                     Pad VHDC1-B29(4200mil,5865.858mil)  Bottom Layer
+   Violation between Pad VHDC1-B31(4200mil,5802.866mil)  Bottom Layer and 
+                     Pad VHDC1-B30(4200mil,5834.362mil)  Bottom Layer
+   Violation between Pad VHDC1-B32(4200mil,5771.368mil)  Bottom Layer and 
+                     Pad VHDC1-B31(4200mil,5802.866mil)  Bottom Layer
+   Violation between Pad VHDC1-B33(4200mil,5739.872mil)  Bottom Layer and 
+                     Pad VHDC1-B32(4200mil,5771.368mil)  Bottom Layer
+   Violation between Pad VHDC1-B34(4200mil,5708.376mil)  Bottom Layer and 
+                     Pad VHDC1-B33(4200mil,5739.872mil)  Bottom Layer
+   Violation between Pad VHDC2-B33(4200mil,3356.872mil)  Bottom Layer and 
+                     Pad VHDC2-B34(4200mil,3325.376mil)  Bottom Layer
+   Violation between Pad VHDC2-B32(4200mil,3388.368mil)  Bottom Layer and 
+                     Pad VHDC2-B33(4200mil,3356.872mil)  Bottom Layer
+   Violation between Via (3980mil,3350mil) Top Layer to Bottom Layer and 
+                     Pad VHDC2-B33(4200mil,3356.872mil)  Bottom Layer
+   Violation between Pad VHDC2-B31(4200mil,3419.864mil)  Bottom Layer and 
+                     Pad VHDC2-B32(4200mil,3388.368mil)  Bottom Layer
+   Violation between Pad VHDC2-B30(4200mil,3451.362mil)  Bottom Layer and 
+                     Pad VHDC2-B31(4200mil,3419.864mil)  Bottom Layer
+   Violation between Pad VHDC2-B29(4200mil,3482.858mil)  Bottom Layer and 
+                     Pad VHDC2-B30(4200mil,3451.362mil)  Bottom Layer
+   Violation between Via (3980mil,3444mil) Top Layer to Bottom Layer and 
+                     Pad VHDC2-B30(4200mil,3451.362mil)  Bottom Layer
+   Violation between Pad VHDC2-B28(4200mil,3514.354mil)  Bottom Layer and 
+                     Pad VHDC2-B29(4200mil,3482.858mil)  Bottom Layer
+   Violation between Pad VHDC2-B27(4200mil,3545.85mil)  Bottom Layer and 
+                     Pad VHDC2-B28(4200mil,3514.354mil)  Bottom Layer
+   Violation between Pad VHDC2-B26(4200mil,3577.346mil)  Bottom Layer and 
+                     Pad VHDC2-B27(4200mil,3545.85mil)  Bottom Layer
+   Violation between Via (3980mil,3538mil) Top Layer to Bottom Layer and 
+                     Pad VHDC2-B27(4200mil,3545.85mil)  Bottom Layer
+   Violation between Pad VHDC2-B25(4200mil,3608.842mil)  Bottom Layer and 
+                     Pad VHDC2-B26(4200mil,3577.346mil)  Bottom Layer
+   Violation between Pad VHDC2-B24(4200mil,3640.338mil)  Bottom Layer and 
+                     Pad VHDC2-B25(4200mil,3608.842mil)  Bottom Layer
+   Violation between Pad VHDC2-B23(4200mil,3671.834mil)  Bottom Layer and 
+                     Pad VHDC2-B24(4200mil,3640.338mil)  Bottom Layer
+   Violation between Via (3980mil,3633mil) Top Layer to Bottom Layer and 
+                     Pad VHDC2-B24(4200mil,3640.338mil)  Bottom Layer
+   Violation between Pad VHDC2-B22(4200mil,3703.33mil)  Bottom Layer and 
+                     Pad VHDC2-B23(4200mil,3671.834mil)  Bottom Layer
+   Violation between Pad VHDC2-B21(4200mil,3734.826mil)  Bottom Layer and 
+                     Pad VHDC2-B22(4200mil,3703.33mil)  Bottom Layer
+   Violation between Pad VHDC2-B20(4200mil,3766.322mil)  Bottom Layer and 
+                     Pad VHDC2-B21(4200mil,3734.826mil)  Bottom Layer
+   Violation between Via (3980mil,3726mil) Top Layer to Bottom Layer and 
+                     Pad VHDC2-B21(4200mil,3734.826mil)  Bottom Layer
+   Violation between Pad VHDC2-B19(4200mil,3797.818mil)  Bottom Layer and 
+                     Pad VHDC2-B20(4200mil,3766.322mil)  Bottom Layer
+   Violation between Pad VHDC2-B18(4200mil,3829.314mil)  Bottom Layer and 
+                     Pad VHDC2-B19(4200mil,3797.818mil)  Bottom Layer
+   Violation between Pad VHDC2-B17(4200mil,3860.81mil)  Bottom Layer and 
+                     Pad VHDC2-B18(4200mil,3829.314mil)  Bottom Layer
+   Violation between Pad VHDC2-B16(4200mil,3892.306mil)  Bottom Layer and 
+                     Pad VHDC2-B17(4200mil,3860.81mil)  Bottom Layer
+   Violation between Pad VHDC2-B15(4200mil,3923.802mil)  Bottom Layer and 
+                     Pad VHDC2-B16(4200mil,3892.306mil)  Bottom Layer
+   Violation between Pad VHDC2-B14(4200mil,3955.298mil)  Bottom Layer and 
+                     Pad VHDC2-B15(4200mil,3923.802mil)  Bottom Layer
+   Violation between Pad VHDC2-B13(4200mil,3986.794mil)  Bottom Layer and 
+                     Pad VHDC2-B14(4200mil,3955.298mil)  Bottom Layer
+   Violation between Via (3980mil,3948mil) Top Layer to Bottom Layer and 
+                     Pad VHDC2-B14(4200mil,3955.298mil)  Bottom Layer
+   Violation between Pad VHDC2-B12(4200mil,4018.29mil)  Bottom Layer and 
+                     Pad VHDC2-B13(4200mil,3986.794mil)  Bottom Layer
+   Violation between Pad VHDC2-B11(4200mil,4049.786mil)  Bottom Layer and 
+                     Pad VHDC2-B12(4200mil,4018.29mil)  Bottom Layer
+   Violation between Pad VHDC2-B10(4200mil,4081.284mil)  Bottom Layer and 
+                     Pad VHDC2-B11(4200mil,4049.786mil)  Bottom Layer
+   Violation between Via (3980mil,4042mil) Top Layer to Bottom Layer and 
+                     Pad VHDC2-B11(4200mil,4049.786mil)  Bottom Layer
+   Violation between Pad VHDC2-B9(4200mil,4112.78mil)  Bottom Layer and 
+                     Pad VHDC2-B10(4200mil,4081.284mil)  Bottom Layer
+   Violation between Pad VHDC2-B8(4200mil,4144.276mil)  Bottom Layer and 
+                     Pad VHDC2-B9(4200mil,4112.78mil)  Bottom Layer
+   Violation between Pad VHDC2-B7(4200mil,4175.772mil)  Bottom Layer and 
+                     Pad VHDC2-B8(4200mil,4144.276mil)  Bottom Layer
+   Violation between Via (3980mil,4136mil) Top Layer to Bottom Layer and 
+                     Pad VHDC2-B8(4200mil,4144.276mil)  Bottom Layer
+   Violation between Pad VHDC2-B6(4200mil,4207.268mil)  Bottom Layer and 
+                     Pad VHDC2-B7(4200mil,4175.772mil)  Bottom Layer
+   Violation between Pad VHDC2-B5(4200mil,4238.764mil)  Bottom Layer and 
+                     Pad VHDC2-B6(4200mil,4207.268mil)  Bottom Layer
+   Violation between Pad VHDC2-B4(4200mil,4270.26mil)  Bottom Layer and 
+                     Pad VHDC2-B5(4200mil,4238.764mil)  Bottom Layer
+   Violation between Via (3980mil,4231mil) Top Layer to Bottom Layer and 
+                     Pad VHDC2-B5(4200mil,4238.764mil)  Bottom Layer
+   Violation between Pad VHDC2-B3(4200mil,4301.756mil)  Bottom Layer and 
+                     Pad VHDC2-B4(4200mil,4270.26mil)  Bottom Layer
+   Violation between Pad VHDC2-B2(4200mil,4333.252mil)  Bottom Layer and 
+                     Pad VHDC2-B3(4200mil,4301.756mil)  Bottom Layer
+   Violation between Pad VHDC2-B1(4200mil,4364.748mil)  Bottom Layer and 
+                     Pad VHDC2-B2(4200mil,4333.252mil)  Bottom Layer
+   Violation between Via (3980mil,4325mil) Top Layer to Bottom Layer and 
+                     Pad VHDC2-B2(4200mil,4333.252mil)  Bottom Layer
+   Violation between Via (370mil,8315mil) Top Layer to Bottom Layer and 
+                     Pad P903_34-A4(335.276mil,8290.276mil)  Multi-Layer
+   Violation between Via (1016mil,9213mil) Top Layer to Bottom Layer and 
+                     Via (1036mil,9195mil) Top Layer to Bottom Layer
+Rule Violations :161
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+   Violation between Hole Size Constraint (177mil > 100mil) : Via (132mil,9125mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (177mil > 100mil) : Via (4146mil,9159mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (177mil > 100mil) : Via (233mil,233mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (177mil > 100mil) : Via (2232mil,8362mil) Top Layer to Bottom Layer
+   Violation between Hole Size Constraint (177mil > 100mil) : Via (3775mil,1175mil) Top Layer to Bottom Layer
+Rule Violations :5
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=10mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
+   Violation between Polygon Region (314 hole(s)) Ground Plane Bottom and 
+                     Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer
+   Violation between Polygon Region (321 hole(s)) Ground Plane Top and 
+                     Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer
+   Violation between Polygon Region (314 hole(s)) Ground Plane Bottom and 
+                     Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer
+   Violation between Polygon Region (321 hole(s)) Ground Plane Top and 
+                     Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer
+   Violation between Polygon Region (314 hole(s)) Ground Plane Bottom and 
+                     Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer
+   Violation between Polygon Region (321 hole(s)) Ground Plane Top and 
+                     Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer
+Rule Violations :6
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+   Violation between Polygon Region (314 hole(s)) Ground Plane Bottom and 
+                     Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer
+   Violation between Polygon Region (321 hole(s)) Ground Plane Top and 
+                     Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer
+   Violation between Polygon Region (314 hole(s)) Ground Plane Bottom and 
+                     Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer
+   Violation between Polygon Region (321 hole(s)) Ground Plane Top and 
+                     Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer
+   Violation between Polygon Region (314 hole(s)) Ground Plane Bottom and 
+                     Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer
+   Violation between Polygon Region (321 hole(s)) Ground Plane Top and 
+                     Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer
+   Violation between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer and 
+                     Polygon Region (314 hole(s)) Ground Plane Bottom
+   Violation between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer and 
+                     Polygon Region (314 hole(s)) Ground Plane Bottom
+   Violation between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer and 
+                     Polygon Region (314 hole(s)) Ground Plane Bottom
+   Violation between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer and 
+                     Polygon Region (321 hole(s)) Ground Plane Top
+   Violation between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer and 
+                     Polygon Region (321 hole(s)) Ground Plane Top
+   Violation between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer and 
+                     Polygon Region (321 hole(s)) Ground Plane Top
+Rule Violations :12
+
+
+Violations Detected : 187
+Time Elapsed        : 00:00:03

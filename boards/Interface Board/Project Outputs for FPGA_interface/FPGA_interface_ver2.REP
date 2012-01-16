@@ -1,0 +1,149 @@
+*************************************************************
+FileName = FPGA_interface_ver2.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : FPGA_interface_ver2.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Ground Plane Top
+      File : FPGA_interface_ver2.G1
+
+    Adding Layer      : Ground Plane Top
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D14
+    D16
+    D17
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Ground Plane Bottom
+      File : FPGA_interface_ver2.G2
+
+    Adding Layer      : Ground Plane Bottom
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : FPGA_interface_ver2.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : FPGA_interface_ver2.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D12
+    D19
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : FPGA_interface_ver2.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : FPGA_interface_ver2.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : FPGA_interface_ver2.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D12
+*************************************************************
+

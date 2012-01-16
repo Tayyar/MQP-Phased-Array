@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [FPGA_interface.PrjPcb]
+   Generated File[FPGA_interface_ver2.TXT]
+   Generated File[FPGA_interface_ver2.DRL]
+   Generated File[FPGA_interface_ver2.LDP]
+   Generated File[FPGA_interface_ver2.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 12:10:28 PM On 1/5/2012
